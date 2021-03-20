@@ -1,0 +1,14 @@
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 300;
+  src: url('./OpenSans-Light.woff') format('woff');
+  src: url('./OpenSans-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 600;
+  src: url('./OpenSans-Semibold.woff') format('woff');
+  src: url('./OpenSans-Semibold.ttf') format('truetype');
+}
