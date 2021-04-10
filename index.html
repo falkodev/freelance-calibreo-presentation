@@ -7,25 +7,25 @@
 		<title>reveal.js</title>
 
 		<!-- Google Tag Manager -->
-		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		<!-- <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-KFWMZPN');</script>
+		})(window,document,'script','dataLayer','GTM-KFWMZPN');</script> -->
 		<!-- End Google Tag Manager -->
 
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
 		<link rel="stylesheet" href="dist/theme/calibreo.css" id="theme">
 
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-68FZ5E4VKQ"></script>
+		<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-68FZ5E4VKQ"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
 			function gtag(){dataLayer.push(arguments);}
 			gtag('js', new Date());
 
 			gtag('config', 'G-68FZ5E4VKQ');
-		</script>
+		</script> -->
 	</head>
 	<body>
 		<!-- Google Tag Manager (noscript) -->
@@ -36,7 +36,7 @@
 			<div class="slides">
 				<section data-markdown="md/presentation.md" data-separator-vertical="^----"></section>
 			</div>
-			<div class='footer'>
+			<div class="footer">
 				<svg width="100" height="100" viewBox="0 0 400 400">
 					<rect opacity="1" transform="rotate(46 198.49999999999997,155.453125) " id="svg_1" height="200" width="200" y="55.45313" x="98.5" stroke-width="6" stroke="#6200EE" fill="none"/>
 					<rect opacity="1" transform="rotate(46 199.49999999999997,192.453125) " id="svg_4" height="200" width="200" y="92.45313" x="99.5" stroke-width="6" stroke="#6200EE" fill="none"/>
@@ -51,6 +51,7 @@
 		<script src="plugin/markdown/markdown.js"></script>
 		<script src="plugin/highlight/highlight.js"></script>
 		<script>
+			var gaPropertyID = 'G-68FZ5E4VKQ';
 			// More info about initialization & config:
 			// - https://revealjs.com/initialization/
 			// - https://revealjs.com/config/
@@ -58,7 +59,13 @@
 				hash: true,
 
 				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ],
+
+				dependencies: [
+					{ src: 'node_modules/reveal-ga/dist/reveal-ga.min.js' }
+				],
+
+				slideNumber: 'c/t'
 			});
 		</script>
 	</body>

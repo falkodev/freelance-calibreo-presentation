@@ -1,8 +1,8 @@
-## Come trovare i migliori professionisti IT per la mia azienda?
+<h2> Come trovare i migliori professionisti IT per la mia azienda? </h2>
 
 ---
 
-## Qual'è la realta del reclutamento?
+<h2> Qual'è la realta del reclutamento? </h2>
 
 <div>
 <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -19,49 +19,55 @@
 - Difficoltà per trovare le competenze giuste
 </div>
 
+<br>
+<p class="small-text">
+Dati 2020 per il settore IT
+</p>
+
 ---
 
-## Soluzione
+<h2> Soluzione </h2>
 
-La soluzione si chiama <b>Calibreo</b>, per abbinare il cliente giusto con il freelance giusto.
+La soluzione si chiama <b>Calibreo</b>, per calibrare il freelance giusto secondo i suoi bisogni.
 
 ---
 
-## Che cos'è Calibreo?
+<h2> Che cos'è Calibreo? </h2>
 
 Una piattaforma per sviluppatori fatta da sviluppatori
 
-<img src="images/profile.png" alt="image" width="385"/>
+<img src="assets/profile.png" alt="image" width="385"/>
 
 ---
 
-<b>Risparmio di tempo</b> del 50% colla nostra team
-
-- per capire il suo bisogno <!-- .element: class="fragment" data-fragment-index="1" -->
-- pre-selezionare profili <!-- .element: class="fragment" data-fragment-index="2" -->
-
-<img src="images/team.png" alt="image"/>
+<h3><b>Risparmio economico</b> sulla ricerca dei talenti con il search engine<br></h3>
+<img src="assets/search.png" alt="image" width="700"/>
 
 ---
 
-<b>Risparmio economico</b> sulla ricerca dei talenti con il search engine
-<img src="images/search.png" alt="image"/>
+<h3><b>Risparmio di tempo</b> del 50%</h3>
+
+- Notazione dei freelancers <!-- .element: class="fragment" data-fragment-index="1" -->
+- Ricerca per situazione geografica e mestiere <!-- .element: class="fragment" data-fragment-index="2" -->
+- Validazione delle competenze tramite il metodo "drill down" <!-- .element: class="fragment" data-fragment-index="3" -->
+
+<img src="assets/check.png" alt="image" width="700"/>
 
 ---
 
-<b>Validazione delle competenze</b> all'iscrizione del professionista con un'intervista
-<img src="images/check.png" alt="image" width="500"/>
+<h2> Piattaforma per gestire i contratti online </h2>
+
+<video id="process-video" controls controlslist="nodownload" disablePictureInPicture playsinline autoplay muted poster="assets/mission.png">
+  <source type="video/mp4" src="assets/process.mp4">
+</video>
+
+<p class="small-text">
+Cliccare sull'immagine per controllare la video
+</p>
 
 ---
 
-Piattaforma per gestire i contratti online
-
-<img src="images/mission.png" alt="image"/>
-
-
----
-
-## Next steps
+<h2> Next steps </h2>
 
 <div>
 <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -76,7 +82,7 @@ Per le prime aziende iscrite, sono offerti <b>6 mesi senza commissione</b>, iniz
 
 ---
 
-## Grazie
+<h2> Grazie </h2>
 
 <div style="text-align: left">
 <b>Contatto</b>: Anthony Tarlao - Calibreo founder
