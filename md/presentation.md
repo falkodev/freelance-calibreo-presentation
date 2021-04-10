@@ -34,7 +34,7 @@ La soluzione si chiama <b>Calibreo</b>, per calibrare il freelance giusto second
 
 <h2> Che cos'è Calibreo? </h2>
 
-Una piattaforma per sviluppatori fatta da sviluppatori
+Una piattaforma per sviluppatori fatta dai sviluppatori
 
 <img src="assets/profile.png" alt="image" width="385"/>
 
@@ -55,7 +55,7 @@ Una piattaforma per sviluppatori fatta da sviluppatori
 
 ---
 
-<h2> Piattaforma per gestire i contratti online </h2>
+<h3> Piattaforma per gestire i contratti online </h3>
 
 <video id="process-video" controls controlslist="nodownload" disablePictureInPicture playsinline autoplay muted poster="assets/mission.png">
   <source type="video/mp4" src="assets/process.mp4">
@@ -67,16 +67,9 @@ Cliccare sull'immagine per controllare la video
 
 ---
 
-<h2> Next steps </h2>
+<h2> Early birds </h2>
 
 <div>
-<!-- .element: class="fragment" data-fragment-index="1" -->
-Calibreo sarà aperto per i professionisti tra poco.
-<br><br>
-</div>
-
-<div>
-<!-- .element: class="fragment" data-fragment-index="2" -->
 Per le prime aziende iscrite, sono offerti <b>6 mesi senza commissione</b>, iniziando alla prima missione.
 </div>
 
