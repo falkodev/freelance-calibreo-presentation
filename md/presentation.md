@@ -62,7 +62,7 @@ Una piattaforma per sviluppatori fatta dai sviluppatori
 </video>
 
 <p class="small-text">
-Cliccare sull'immagine per controllare la video
+Cliccare sull'immagine per controllare il video
 </p>
 
 ---
