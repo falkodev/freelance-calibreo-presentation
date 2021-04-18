@@ -2,7 +2,7 @@
 
 ---
 
-<h2> Qual'è la realta del reclutamento? </h2>
+<h2> Qual è la realtà del reclutamento? </h2>
 
 <div>
 <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -34,13 +34,13 @@ La soluzione si chiama <b>Calibreo</b>, per calibrare il freelance giusto second
 
 <h2> Che cos'è Calibreo? </h2>
 
-Una piattaforma per sviluppatori fatta dai sviluppatori
+Una piattaforma per sviluppatori fatta da sviluppatori
 
 <img src="assets/profile.png" alt="image" width="385"/>
 
 ---
 
-<h3><b>Risparmio economico</b> sulla ricerca dei talenti con il search engine<br></h3>
+<h3><b>Risparmio economico</b> sulla ricerca dei talenti col search engine<br></h3>
 <img src="assets/search.png" alt="image" width="700"/>
 
 ---
