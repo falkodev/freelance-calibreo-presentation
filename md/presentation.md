@@ -58,7 +58,7 @@ Una piattaforma per sviluppatori fatta da sviluppatori
 
 <h3> Piattaforma per gestire i contratti online </h3>
 
-<video id="process-video" controls controlslist="nodownload" disablePictureInPicture playsinline autoplay poster="assets/mission.png">
+<video id="process-video" controls controlslist="nodownload" disablePictureInPicture playsinline poster="assets/mission.png">
   <source type="video/mp4" src="assets/presentation.mp4">
 </video>
 

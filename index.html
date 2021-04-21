@@ -7,25 +7,25 @@
 		<title>Presentazione di Calibreo, l'innovativa piattaforma di freelance</title>
 
 		<!-- Google Tag Manager -->
-		<!-- <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		})(window,document,'script','dataLayer','GTM-KFWMZPN');</script> -->
+		})(window,document,'script','dataLayer','GTM-KFWMZPN');</script>
 		<!-- End Google Tag Manager -->
 
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
 		<link rel="stylesheet" href="dist/theme/calibreo.css" id="theme">
 
-		<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-68FZ5E4VKQ"></script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-68FZ5E4VKQ"></script>
 		<script>
 			window.dataLayer = window.dataLayer || [];
 			function gtag(){dataLayer.push(arguments);}
 			gtag('js', new Date());
 
 			gtag('config', 'G-68FZ5E4VKQ');
-		</script> -->
+		</script>
 	</head>
 	<body>
 		<!-- Google Tag Manager (noscript) -->
@@ -51,7 +51,7 @@
 		<script src="plugin/markdown/markdown.js"></script>
 		<script src="plugin/highlight/highlight.js"></script>
 		<script>
-			var gaPropertyID = 'G-68FZ5E4VKQ';
+			// var gaPropertyID = 'G-68FZ5E4VKQ';
 			// More info about initialization & config:
 			// - https://revealjs.com/initialization/
 			// - https://revealjs.com/config/
@@ -61,11 +61,24 @@
 				// Learn about plugins: https://revealjs.com/plugins/
 				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ],
 
-				dependencies: [
-					{ src: 'node_modules/reveal-ga/dist/reveal-ga.min.js' }
-				],
+				// dependencies: [
+				//	{ src: 'node_modules/reveal-ga/dist/reveal-ga.min.js' }
+				// ],
 
 				slideNumber: 'c/t'
+			});
+
+			Reveal.on( 'slidechanged', event => {
+				// event.previousSlide, event.currentSlide, event.indexh, event.indexv
+				var video = document.getElementById('process-video');
+				if (video) {
+					if (!video.parentNode.hidden) {
+						video.volume = 0.2;
+						video.play();
+					} else {
+						video.pause();
+					}
+				}
 			});
 		</script>
 	</body>
