@@ -1,8 +1,8 @@
-<h2> Come trovare i migliori professionisti IT per la mia azienda? </h2>
+<h2> Come trovare i migliori professionisti IT e ingegneri per la mia azienda? </h2>
 
 ---
 
-<h2> Qual è la realtà del reclutamento? </h2>
+<h2> Cosa comporta reclutare oggi? </h2>
 
 <div>
 <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -16,7 +16,7 @@
 
 <div>
 <!-- .element: class="fragment" data-fragment-index="3" -->
-- Difficoltà per trovare le competenze giuste
+- Difficoltà nel trovare delle competenze giuste
 </div>
 
 <br>
@@ -28,7 +28,8 @@ Dati 2020 per il settore IT
 
 <h2> Soluzione </h2>
 
-La soluzione si chiama <b>Calibreo</b>, per calibrare il freelance giusto secondo i suoi bisogni.
+La soluzione si chiama <b>Calibreo</b>.<br>
+Un team dedicato calibrerà il freelance giusto per i bisogni della sua azienda.
 
 ---
 
@@ -40,25 +41,25 @@ Una piattaforma per sviluppatori fatta da sviluppatori
 
 ---
 
-<h3><b>Risparmio economico</b> sulla ricerca dei talenti col search engine<br></h3>
-<img src="assets/search.png" alt="image" width="700"/>
+<h3><b>Trovare la persona giusta</b> grazie a</h3>
 
----
-
-<h3><b>Risparmio di tempo</b> del 50%</h3>
-
-- Notazione dei freelancers <!-- .element: class="fragment" data-fragment-index="1" -->
-- Ricerca per situazione geografica e mestiere <!-- .element: class="fragment" data-fragment-index="2" -->
+- Valutazione dei freelancers <!-- .element: class="fragment" data-fragment-index="1" -->
+- Ricerca per posizione geografica e professione <!-- .element: class="fragment" data-fragment-index="2" -->
 - Validazione delle competenze tramite il metodo "drill down" <!-- .element: class="fragment" data-fragment-index="3" -->
 
 <img src="assets/check.png" alt="image" width="700"/>
 
 ---
 
+<h3><b>Ricerca facile e veloce</b> col search engine<br></h3>
+<img src="assets/search.png" alt="image" width="700"/>
+
+---
+
 <h3> Piattaforma per gestire i contratti online </h3>
 
-<video id="process-video" controls controlslist="nodownload" disablePictureInPicture playsinline autoplay muted poster="assets/mission.png">
-  <source type="video/mp4" src="assets/process.mp4">
+<video id="process-video" controls controlslist="nodownload" disablePictureInPicture playsinline autoplay poster="assets/mission.png">
+  <source type="video/mp4" src="assets/presentation.mp4">
 </video>
 
 <p class="small-text">
@@ -70,7 +71,7 @@ Cliccare sull'immagine per controllare il video
 <h2> Early birds </h2>
 
 <div>
-Per le prime aziende iscrite, sono offerti <b>6 mesi senza commissione</b>, iniziando alla prima missione.
+Per le prime aziende iscrite, sono offerti <b>6 mesi senza commissione</b>, iniziando dalla prima prestazione.
 </div>
 
 ---
