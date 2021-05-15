@@ -70,8 +70,8 @@
 
 			Reveal.on( 'slidechanged', event => {
 				// event.previousSlide, event.currentSlide, event.indexh, event.indexv
-				var video = document.getElementById('process-video');
-				if (video) {
+				var videos = document.querySelectorAll('.process-video');
+				for (const video of videos) {
 					if (!video.parentNode.hidden) {
 						video.volume = 0.2;
 						video.play();

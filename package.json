@@ -1,8 +1,8 @@
 {
-  "name": "calibreo-presentation",
+  "name": "freelance-calibreo-presentation",
   "version": "4.1.0",
-  "description": "Calibreo Presentation with reveal.js",
-  "homepage": "https://falkodev.github.io/",
+  "description": "Calibreo Presentation for freelancers",
+  "homepage": "https://falkodev.github.io/freelance-calibreo-presentation",
   "main": "dist/reveal.js",
   "module": "dist/reveal.esm.js",
   "license": "MIT",

@@ -1,65 +1,73 @@
-<h2> Come trovare i migliori professionisti IT e ingegneri per la mia azienda? </h2>
-
----
-
-<h2> Cosa comporta reclutare oggi? </h2>
+<h2> Quale sono le difficoltà per un freelance oggi? </h2>
 
 <div>
 <!-- .element: class="fragment" data-fragment-index="1" -->
-- Tempo medio <b>tra 5 e 7 settimane</b>
+- Essere <b>ben</b> pagato e <b>in tempo</b>
 </div>
 
 <div>
 <!-- .element: class="fragment" data-fragment-index="2" -->
-- Costo medio <b>tra 6.000 e 9.000 €</b>
+- Trovare e gestire <b>prestazioni di qualità</b>
 </div>
 
 <div>
 <!-- .element: class="fragment" data-fragment-index="3" -->
-- Difficoltà nel trovare delle competenze giuste
+- <b>Commissioni</b> da intermediari <b>troppe alte</b> (spesso tra 15 e 20%)
 </div>
 
-<br>
-<p class="small-text">
-Dati 2020 per il settore IT
-</p>
 
 ---
 
-<h2> Soluzione </h2>
+<h2> Cosa proponiamo? </h2>
 
-La soluzione si chiama <b>Calibreo</b>.<br>
-Un team dedicato calibrerà il freelance giusto per i bisogni della sua azienda.
+<div>
+<!-- .element: class="fragment" data-fragment-index="1" -->
+Una piattaforma dedicata per risolvere queste difficoltà: <b>Calibreo</b>.<br><br>
+</div>
+
+<div>
+<!-- .element: class="fragment" data-fragment-index="2" -->
+Un team per calibrare il freelance giusto con il cliente giusto.
+</div>
 
 ---
 
 <h2> Che cos'è Calibreo? </h2>
 
-Una piattaforma per sviluppatori fatta da sviluppatori
+
+Una piattaforma per freelance fatta da freelance
 
 <img src="assets/profile.png" alt="image" width="385"/>
 
 ---
 
-<h3><b>Trovare la persona giusta</b> grazie a</h3>
+<h2> Come funziona? </h2>
 
-- Valutazione dei freelancers <!-- .element: class="fragment" data-fragment-index="1" -->
-- Ricerca per posizione geografica e professione <!-- .element: class="fragment" data-fragment-index="2" -->
-- Validazione delle competenze tramite il metodo "drill down" <!-- .element: class="fragment" data-fragment-index="3" -->
-
-<img src="assets/check.png" alt="image" width="700"/>
+In 3 semplici step <!-- .element: class="fragment" data-fragment-index="1" -->
 
 ---
 
-<h3><b>Ricerca facile e veloce</b> col search engine<br></h3>
-<img src="assets/search.png" alt="image" width="700"/>
+<h3> Step 1 </h3>
+
+Crea il tuo profilo pubblico, indica le tue competenze e esperienze.
+
+<video class="process-video" controls controlslist="nodownload" disablePictureInPicture playsinline poster="assets/profile2.png">
+  <source type="video/mp4" src="assets/inscription_freelance.mp4">
+</video>
+
+<p class="small-text">
+Cliccare sull'immagine per controllare il video
+</p>
+
 
 ---
 
-<h3> Piattaforma per gestire i contratti online </h3>
+<h3> Step 2 </h3>
 
-<video id="process-video" controls controlslist="nodownload" disablePictureInPicture playsinline poster="assets/mission.png">
-  <source type="video/mp4" src="assets/presentation.mp4">
+I nostri clienti ti contatteranno.
+
+<video class="process-video" controls controlslist="nodownload" disablePictureInPicture playsinline poster="assets/profile2.png">
+  <source type="video/mp4" src="assets/devis.mp4">
 </video>
 
 <p class="small-text">
@@ -68,10 +76,39 @@ Cliccare sull'immagine per controllare il video
 
 ---
 
-<h2> Early birds </h2>
+<h3> Step 3 </h3>
+
+Inizia quando il cliente ha erogato l'importo.
+
+<video class="process-video" controls controlslist="nodownload" disablePictureInPicture playsinline poster="assets/mission.png">
+  <source type="video/mp4" src="assets/facture.mp4">
+</video>
+
+<p class="small-text">
+Cliccare sull'immagine per controllare il video
+</p>
+
+---
+
+<h3><b>Lavorare con il cliente giusto</b> grazie a</h3>
+
+- Pre-pagamento dal cliente <!-- .element: class="fragment" data-fragment-index="1" -->
+- Valutazione dei clienti dai freelancers <!-- .element: class="fragment" data-fragment-index="2" -->
+- Validazione delle tue competenze con il nostro team per fare il match col cliente adeguato <!-- .element: class="fragment" data-fragment-index="3" -->
+
+<img src="assets/check.png" alt="image" width="700"/>
+
+---
+
+<h2> Offerta di cooptazione </h2>
 
 <div>
-Per le prime aziende iscrite, sono offerti <b>6 mesi senza commissione</b>, iniziando dalla prima prestazione.
+
+- Se 1 freelance si iscrive grazie a te, è offerto <b>1 mese senza commissione</b>, iniziando dalla tua prima prestazione.
+
+- Se sono 3 freelance, ti offriamo <b>4 mesi senza commissione</b>.
+
+- E per 5 freelance, saranno <b>6 mesi senza commissione</b>.
 </div>
 
 ---
@@ -79,9 +116,10 @@ Per le prime aziende iscrite, sono offerti <b>6 mesi senza commissione</b>, iniz
 <h2> Grazie </h2>
 
 <div style="text-align: left">
-<b>Contatto</b>: Anthony Tarlao - Calibreo founder
 
-<b>Mail</b>: contact@calibreo.ie
+<b>In caso di domande</b>: contact@calibreo.ie
 
-<b>Linkedin</b>: [https://www.linkedin.com/in/anthony-tarlao](https://www.linkedin.com/in/anthony-tarlao/?locale=it_IT)
+<b>Il sito dove la magia opera</b>: [calibreo.it](https://calibreo.it)
+
+<b>Iscrizione</b>: [calibreo.it/subscribe](https://calibreo.it/subscribe)
 </div>
